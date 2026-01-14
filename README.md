@@ -16,7 +16,7 @@ If not, I'll learn from the next project!
 4. **Game Develovement**
 5. **Video Editor**
 
-My main topics are Typescript/Javascrpit, Python and Game Maker, and also my favorite apps to work are Figma, KanbanFlow and Milanote.
+My main topics are Typescript/Javascrpit, Python and Game Maker, and also my favorite apps to work are Figma, KanbanFlow, Coolors and Milanote.
 
 Right now I got tons of repositories of websites, mostly are projects for college so I don't got any favorite yet.
 ## 
