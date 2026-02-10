@@ -22,9 +22,9 @@ Right now I got tons of repositories of websites, mostly are projects for colleg
 ## 
 **Fun facts about me:**
 * I like cats
-* My favorite game is Minecraft
+* My favorite games is Minecraft/The Binding of Isaac/ULTRAKILL/Baldi's Basics Plus/Ace Attorney/DDLC
 * I like playing Chest
 * I love tea
 * I don't like coffee (just use it if I'm sleepy)
 * Some hobbies: gaming, anime, draw, create stuff
-* Fav anime: Azumanga Daioh/Re Zero/JJK
+* Fav animes: Azumanga Daioh/Re Zero/JJK
