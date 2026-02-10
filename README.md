@@ -27,3 +27,4 @@ Right now I got tons of repositories of websites, mostly are projects for colleg
 * I love tea
 * I don't like coffee (just use it if I'm sleepy)
 * Some hobbies: gaming, anime, draw, create stuff
+* Fav anime: Azumanga Daioh/Re Zero/JJK
