@@ -22,7 +22,7 @@ Right now I got tons of repositories of websites, mostly are projects for colleg
 ## 
 **Fun facts about me:**
 * I like cats
-* My favorite games is Minecraft/The Binding of Isaac/ULTRAKILL/Warframe/Deltarune-Undertale
+* My favorite games are Minecraft/The Binding of Isaac/ULTRAKILL/Warframe/Deltarune-Undertale
 * I like playing Chess and Poker
 * I love tea
 * I don't like coffee (just use it if I'm sleepy)
